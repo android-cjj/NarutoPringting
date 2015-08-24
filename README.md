@@ -10,5 +10,7 @@
 
 ![](http://www.apkbus.com/data/attachment/forum/201508/24/165852xo3wuruwfwo84rwr.gif)
 
+其实，实现这种效果原来那么简单的，有多简单，你看源码就知道了，啊哈哈。。。
+
 
 
